@@ -1,0 +1,26 @@
+{
+  "name": "formation-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloJUSTE/DEVOPS_M1_CA.git"
+  },
+  "author": "floJuste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FloJUSTE/DEVOPS_M1_CA/issues"
+  },
+  "homepage": "https://github.com/FloJUSTE/DEVOPS_M1_CA#readme",
+  "devDependencies": {
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
+
