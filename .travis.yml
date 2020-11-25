@@ -4,3 +4,5 @@ node_js:
   - "6"
 before_install:
   - npm install --global mocha
+after_success:
+  - .travis/push.sh
